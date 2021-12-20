@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Johnny
-- 👀 I’m interested in Data Analyzing, Machine Learning, Scheduling Etc.
-- 🌱 I’m currently learning Industrial Engineering.
+- 👀 I’m interested in Data Science, Machine Learning, and Smart Manufacturing
+- Etc.
+- 🌱 I’m currently majoring Industrial Engineering.
 - 📫 How to reach me:  give me a message.
 
 <!---
