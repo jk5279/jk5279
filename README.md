@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johnny
-- 👀 I’m interested in Data Science/Machine Learning for Industrial Applications, Operations Research and Smart Manufacturing- Etc.
-- 🔎 Currently doing research on the Applications of AI for combinatorial optimization such as production scheduling.
+- 👀 I’m interested in Data Science/Machine Learning for Industrial Applications, Operations Research, and Smart Manufacturing- Etc.
+- 🔎 Currently doing research on the Applications of AI for combinatorial optimization problems like production scheduling.
 - 🌱 I’m currently majoring in Industrial Engineering.
 - 📫 How to reach me:  give me a message.
 
